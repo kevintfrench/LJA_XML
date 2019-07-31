@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns:chavez = "http://chavez.org/personalid" xmlns:oclc = "http://oclc.org/oclcnumber">
+    <book category="XML">
+        <title lang="en">Learning XML</title>
+        <author>Eric T. Ray</author>
+        <year>2003</year>
+        <pages>400</pages>
+        <chavez:id>XML:001:123</chavez:id>
+        <oclc:id>45835583</oclc:id>
+    </book>
+    <book category="XML">
+        <title lang="en">Beginning XML</title>
+        <author>David Hunter</author>
+        <year>2004</year>
+        <pages>995</pages>
+        <chavez:id>XML:001:456</chavez:id>
+        <oclc:id>56600821</oclc:id>
+    </book>
+    <book category="XPath">
+        <title lang="en">XPath 2.0</title>
+        <author>Michael Kay</author>
+        <year>2004</year>
+        <pages>530</pages>
+        <chavez:id>XML:002:123</chavez:id>
+        <oclc:id>57301233</oclc:id>
+    </book>
+    <book category="XQuery">
+        <title lang="en">Learning XQuery</title>
+        <author>Priscilla Walmsley</author>
+        <year>2007</year>
+        <pages>491</pages>
+        <chavez:id>XML:004:123</chavez:id>
+        <oclc:id>123904668</oclc:id>
+    </book>
+</books>

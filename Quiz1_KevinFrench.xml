@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <day category="Saturday">
+    <what>
+      <title>88 Rewound</title>
+      <description>Each week 88 Rewound recreates a radio station survey or countdown from somewhere in the US or beyond, playing the hits (and misses) as they appeared back in the 50's, 60's, 70's or 80's</description>
+    </what>
+    <who>
+      <host>Alex McNeil</host>
+      <host>Keith Sawyer</host>
+      <host>Patrick Bryant</host>
+    </who>
+    <when>
+      <start_time>0600</start_time>
+      <end_time>0800</end_time>
+    </when>
+    <what>
+      <title>Lost Highway</title>
+      <description>Country music for cowpokes who have no idea how to tie a lariat</description>
+    </what>
+    <who>
+      <host>Doug Gesler</host>
+    </who>
+    <when>
+      <start_time>0800</start_time>
+      <end_time>1000</end_time>
+    </when>
+    <what>
+      <title>Backwoods</title>
+      <description>The best in vintage rock ’n’ roll, country and western, and rhythm ’n’ blues. More songs about Cadillacs and chickens</description>
+    </what>
+    <who>
+      <host>John Funke</host>
+    </who>
+    <when>
+      <start_time>1000</start_time>
+      <end_time>1200</end_time>
+    </when>
+  </day>
+</schedule>

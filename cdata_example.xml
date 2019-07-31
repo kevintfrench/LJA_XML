@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<example>
+<p>
+    <![CDATA[
+	    Since this is a CDATA section
+	    I can use all sorts of reserves characters
+	    like > < " and &
+	    or write things like
+	    <foo></bar>
+	    but my document is still well formed!
+	]]>
+</p>
+<p id="p011">Of the 10 patients treated for three months with increasing doses of hydroxyurea, 7 were considered to have responded to treatment because they had at least a twofold increase in the levels of F reticulocytes and fetal hemoglobin. Among those who responded, fetal-hemoglobin levels increased 2– to 10-fold, with three patients reaching maximal fetal-hemoglobin levels between 10 and 15 percent of total hemoglobin. Initial values for hemoglobin, reticulocytes, or fetal hemoglobin did not predict the response to treatment, since patients with a wide range of values for these indexes were included among both the patients who responded and those who did not (<xref rid="t001" ref-type="table">Table 1</xref>). Base-line values on tests of hepatic or renal chemistry, hydroxyurea clearance rates, and serum erythropoietin levels did not predict the ultimate response to treatment among the 10 patients (data not shown). We found no absolute correlation between either the alpha-globin genotype or the specific beta-globin gene-cluster haplotype and the production of fetal hemoglobin. In particular, the presence of the <italic>Xmn</italic>I restriction site did not necessarily predict a favorable response to hydroxyurea treatment (<xref rid="t001" ref-type="table">Table 1</xref>). In the responding patients, there was a slight increase in total hemoglobin, despite the myelosuppressive nature of the doses of hydroxyurea. Although the moderate decline in the percentage of reticulocytes can-not be unequivocally interpreted, our finding of a decrease in the indirect bilirubin level (mean &#177;SD, 35.6&#177;30.8 &#956;mol per liter [2.1&#177;1.8 mg per deciliter] before treatment and 18.8&#177;15.4 &#956;mol per liter [1.1&#177;0.9 mg per deciliter] after treatment; P&lt;0.03) in the patients who responded to treatment is consistent with a mild improvement in the hemolytic rate.</p>
+</example>

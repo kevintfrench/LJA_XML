@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns:dc = "http://purl.org/dc/elements/1.1/" xmlns:mets = "http://www.loc.gov/METS/">
+    <dc:title>Internet Ethics</dc:title>
+    <dc:creator>Duncan Langford</dc:creator>
+    <mets:physicalDescription>
+        <mets:form>Book</mets:form>
+    </mets:physicalDescription>
+    <mets:identifier type="ISBN">0333776267</mets:identifier>
+    <dc:identifier>ISSN 0333776267</dc:identifier>
+</description>

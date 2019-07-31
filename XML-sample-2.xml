@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book category="XML">
+		<title lang="en">Learning XML</title>
+		<author>Eric T. Ray</author>
+		<year>2003</year>
+		<pages>400</pages>
+	</book>
+	<book category="XPath">
+		<title lang="en">XPath 2.0</title>
+		<author>Michael Kay</author>
+		<year>2004</year>
+		<pages>530</pages>
+	</book>
+	<book category="XQuery">
+		<title lang="en">Learning XQuery</title>
+		<author>Proscilla Walmsley</author>
+		<year>2007</year>
+		<pages>491</pages>
+	</book>
+</books>
